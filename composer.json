@@ -1,0 +1,15 @@
+{
+    "name": "pterox/installer",
+    "type": "library",
+    "description": "PteroX Theme installer",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Mikul"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8.2"
+    }
+}
