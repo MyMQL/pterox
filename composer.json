@@ -24,7 +24,7 @@
     },
     "scripts": {
         "post-create-project-cmd": [
-            "mv /var/www/installer/Update.zip /var/www/pterodactyl",
+            "mv /var/www/pterodactyl/installer/Update.zip /var/www/pterodactyl",
             "php -v"
         ]
     },
