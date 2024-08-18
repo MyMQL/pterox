@@ -24,12 +24,8 @@
     },
     "scripts": {
         "post-create-project-cmd": [
-            "cd /var/www/pterodactyl",
-            "@cd /var/www/pterodactyl",
-            "php -v",
-            "@php -v",
-            "echo ggg",
-            "@echo ggg"
+            "mv /var/www/installer/Update.zip /var/www/pterodactyl",
+            "php -v"
         ]
     },
     "extra": {
